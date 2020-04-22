@@ -10,6 +10,6 @@ joe = Dog.new
 class Person
 end
 
-adele_goldberg =
+adele_goldberg = Person.new
 
-alan_kay
+alan_kay = Person.new
