@@ -1,11 +1,11 @@
 class Dog
 end
 
-josh = Dog.new
+fido = Dog.new
 
-alex = Dog.new
+snoopy = Dog.new
 
-joe = Dog.new
+lassie = Dog.new
 
 class Person
 end
